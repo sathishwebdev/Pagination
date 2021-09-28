@@ -8,3 +8,4 @@ In Pagination method, we show the particular number of data page by pages like g
 # In this Repo...
 
 In this repository, I designed a webpage which showing 20 pages of result. 
+![image](![Uploading image.png…]())
